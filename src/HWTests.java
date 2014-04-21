@@ -9,7 +9,7 @@ public class HWTests {
 	@Test 
 	public void helloTest() {
 		String output = hworld.getM();
-		assertEquals("Hello, World!", output);
+		assertEquals("Hello World!", output);
 	}
 }
 
