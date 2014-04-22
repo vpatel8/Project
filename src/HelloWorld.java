@@ -3,7 +3,7 @@ public class HelloWorld
 	String message;
 	public HelloWorld()
 	{  
-		message = "Hello World!";
+		message = "Hello, World!";
 	}
 	public String getM()
 	{
