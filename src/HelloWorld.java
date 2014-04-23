@@ -11,6 +11,6 @@ public class HelloWorld
 	}
 	public String getM()
 	{
-		return message;
+		return "";
 	}
 }
