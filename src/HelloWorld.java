@@ -7,7 +7,7 @@ public class HelloWorld
 	}
 	public HelloWorld()
 	{  
-		message = "Hello, World!"
+		message = "Hello, World!";
 	}
 	public String getM()
 	{
